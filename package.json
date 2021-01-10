@@ -1,0 +1,19 @@
+{
+  "name": "img-effect",
+  "version": "1.0.0",
+  "description": "A simple image effect for websites!",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaneethkm004/img-effect.git"
+  },
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/navaneethkm004/img-effect/issues"
+  },
+  "homepage": "https://github.com/navaneethkm004/img-effect#readme"
+}
